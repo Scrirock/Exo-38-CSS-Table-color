@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    font-size: 12px;
+    font-size: 35px;
 }
 
 table{
@@ -61,4 +61,8 @@ sup{
 
 caption{
     font-weight: bold;
+}
+
+.epais{
+    height: 0.3em;
 }
